@@ -15,7 +15,4 @@ We use the weight provided by OpenCLIP as the starting point for our training.
 
 
 
-## Test
-python test.py
-
 
