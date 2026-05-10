@@ -13,6 +13,7 @@ We use the weight provided by OpenCLIP as the starting point for our training.
 
 ``` train_FF++.sh ```, ``` train_Wilddeepfake.sh ```, and ``` train_DFDC.sh ``` are for running on corresponding dataset. 
 
-
+## checkpoint
+Our checkponit can be downloaded at https://pan.baidu.com/s/1mk_EiF6gTYR5ca7rNynnwQ/my7y
 
 
