@@ -1,2 +1,0 @@
-# fge
-fge-clip code
