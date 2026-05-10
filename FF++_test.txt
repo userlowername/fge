@@ -1,0 +1,4 @@
+/media/zbx/hdd1/FF++/train/741_731 3 8
+/media/zbx/hdd1/FF++/train/388_308 3 8
+/media/zbx/hdd1/FF++/train/550 3 2
+/media/zbx/hdd1/FF++/train/220 3 1
